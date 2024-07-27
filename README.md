@@ -3,10 +3,10 @@ Repo for suite of tools. Set up for a smooth transition to a new instance. There
 
 # Directories
 
-*Recon
+*recon
 
-*Fuzz
+*fuzz
 
-*Vuln-Scan
+*vuln-scan
 
-*Network-Scan
+*network-scan
