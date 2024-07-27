@@ -1,12 +1,17 @@
 # Toolys
-Repo for suite of tools. Set up for a smooth transition to a new instance. There will be several directories and new directories will be added as time passes.
+This repository is compiled with submodules of cyber security tools. The purpose of this repository is to streamline workflows for new instances. The funtionality of the tools can be defined be these categories: recon, fuzzing, network scanning, vulnerability scanning, penetration testing.
 
-# Directories
+# Tools
 
-*recon
-
-*fuzz
-
-*vuln-scan
-
-*network-scan
+-arjun
+-burpsuite
+-crlfsuite
+-feroxbuster
+-ffuf
+-metasploit
+-netcat
+-nikto
+-nmap
+-paramspider
+-subbrute
+-sublister
